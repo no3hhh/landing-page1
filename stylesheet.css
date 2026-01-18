@@ -1,0 +1,121 @@
+
+.header { 
+
+    font-family: 'Roboto';
+    background-color: #1F2937;
+    padding: 20px 50px; 
+    margin: auto;
+    
+
+   
+
+}
+
+
+.logo { 
+font-size: 24px;
+color: #F9FAF8;
+
+}
+
+.liste {
+
+    list-style: none;
+    font-size: 18px;
+    color: #e5e7eb;
+    display: flex;
+    flex-direction: row;
+
+    gap: 8px;
+    
+    
+
+}
+
+.container1 {
+    
+    display: flex;
+    
+    align-items: center;
+   
+    justify-content: center;
+    align-items: center;
+
+   
+
+    
+    
+
+}
+
+.titre2 {
+
+    font-size: 48px ;
+    font-weight: 900;
+    color: #F9FAF8;
+    margin-bottom: -20px;
+    
+
+}
+
+.texte1 {
+
+    font-size: 18px;
+    color: #e5e7eb;
+    opacity: 0.8;
+
+
+}
+
+.boutton1{
+
+    background-color: #3882f6;
+    color: #e5e7eb;
+    border-radius: 15%;
+    
+    
+    cursor: pointer;
+    max-width: 60px;
+    border-radius: 12px;
+    margin-bottom: 40px;
+    border: #3882f6 ;
+
+
+    
+
+}
+
+.image1 {
+
+
+        width: 400px;
+        height: auto;
+        display: block;              /* standard */
+        margin-left: 20px;        
+    
+    
+
+
+}
+
+.partiehaut {
+
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+}
+
+.textecontainer {
+    display: flex;
+    flex-direction: column;
+   
+   
+    max-width: 400px;
+    
+}
+
+ul {
+    cursor: pointer;
+    opacity: 0.8;
+}
